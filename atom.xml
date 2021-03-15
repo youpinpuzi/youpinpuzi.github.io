@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Ak47.github.io</id>
+    <id>https://youpinpuzi.github.io</id>
     <title>优品铺子</title>
-    <updated>2021-03-15T00:50:01.215Z</updated>
+    <updated>2021-03-15T01:18:31.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Ak47.github.io"/>
-    <link rel="self" href="https://Ak47.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://Ak47.github.io/images/avatar.png</logo>
-    <icon>https://Ak47.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://youpinpuzi.github.io"/>
+    <link rel="self" href="https://youpinpuzi.github.io/atom.xml"/>
+    <subtitle>Ak47</subtitle>
+    <logo>https://youpinpuzi.github.io/images/avatar.png</logo>
+    <icon>https://youpinpuzi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 优品铺子</rights>
     <entry>
         <title type="html"><![CDATA[袁阔成评书：三国演义（365回全集）]]></title>
-        <id>https://Ak47.github.io/post/yuan-kuo-cheng-ping-shu-san-guo-yan-yi-365-hui-quan-ji/</id>
-        <link href="https://Ak47.github.io/post/yuan-kuo-cheng-ping-shu-san-guo-yan-yi-365-hui-quan-ji/">
+        <id>https://youpinpuzi.github.io/post/yuan-kuo-cheng-ping-shu-san-guo-yan-yi-365-hui-quan-ji/</id>
+        <link href="https://youpinpuzi.github.io/post/yuan-kuo-cheng-ping-shu-san-guo-yan-yi-365-hui-quan-ji/">
         </link>
         <updated>2021-03-14T11:44:52.000Z</updated>
         <content type="html"><![CDATA[<p>原音回放｜典藏呈现<br>
@@ -274,8 +274,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Ak47.github.io/post/hello-gridea/</id>
-        <link href="https://Ak47.github.io/post/hello-gridea/">
+        <id>https://youpinpuzi.github.io/post/hello-gridea/</id>
+        <link href="https://youpinpuzi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
