@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youpinpuzi.github.io</id>
     <title>优品铺子</title>
-    <updated>2021-05-31T09:06:06.506Z</updated>
+    <updated>2021-05-31T09:12:13.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youpinpuzi.github.io"/>
     <link rel="self" href="https://youpinpuzi.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://youpinpuzi.github.io/post/ZmuYX06ns/">
         </link>
         <updated>2021-03-15T01:28:16.000Z</updated>
-        <content type="html"><![CDATA[<p>大家好！这是我的第一个博客网站，希望多多支持。谢谢！<img src="https://youpinpuzi.github.io/post-images/1622451364958.jfif" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://youpinpuzi.github.io/post-images/1622451364958.jfif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
